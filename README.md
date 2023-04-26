@@ -1,5 +1,9 @@
 # The Integrated Parking System Embedded With Cooling System Arduino-Project
 
+#Link to:
+#Working Model video: https://youtube.com/shorts/LHOsuY6DAG0?feature=share 
+#Explanation of this project: https://youtu.be/xS3-r1mMmFM
+
 The integrated parking system embedded with cooling system is an Arduino project designed to assist users with parking their vehicles safely and conveniently, while also providing a cooling system to maintain a comfortable environment in the vehicle. The system is composed of three subsystems, each with its specific functions.
 
 The first subsystem of the system is equipped with an ultrasonic sensor that can detect objects nearby and an LCD that displays the distance in both centimeters and inches. When an object is detected, the sensor sends a signal to the second subsystem via hardware serial communication.

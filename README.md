@@ -9,3 +9,6 @@ The second subsystem consists of an LED, a buzzer, a potentiometer, NPN transist
 The third subsystem of the system is equipped with a DHT11 sensor that detects temperature and humidity and an LCD that displays the information. This subsystem is connected to the second subsystem via software serial communication and sends signals to the second subsystem to adjust the fan speed according to the temperature. 
 
 Overall, the integrated parking system embedded with cooling system Arduino project provides an efficient and convenient way to park and cool vehicles. With its ability to detect nearby objects and adjust the fan speed according to the temperature, this system can help users park their vehicles safely and comfortably.
+
+
+"This integrated parking system embedded with cooling system Arduino project is the result of a group effort by three students as their final project for CS 362 Computer Design at the University of Illinois at Chicago. All intellectual property rights and ownership of this project belong to the group members and the University of Illinois at Chicago."

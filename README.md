@@ -12,3 +12,4 @@ Overall, the integrated parking system embedded with cooling system Arduino proj
 
 
 "This integrated parking system embedded with cooling system Arduino project is the result of a group effort by three students as their final project for CS 362 Computer Design at the University of Illinois at Chicago. All intellectual property rights and ownership of this project belong to the group members and the University of Illinois at Chicago."
+
